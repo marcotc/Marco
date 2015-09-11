@@ -1,0 +1,19 @@
+#jenkins-head-icon {
+    display: block;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    background: url(http://paytmlabs.com/wp-content/themes/PaytmLabsLayout/img/paytm_labs_logo_inline.png) no-repeat;
+    width: 180px; /* Width of new image */
+    height: 40px; /* Height of new image */
+    padding-left: 300px; /* Equal to width of new image */
+  }
+  
+  #jenkins-name-icon {
+    padding-left: 180px; /* Equal to width of new image */
+    width: 300px;
+      	filter: invert(65%);
+  }
+  
+  #header {
+    background-color: #C4E7ED;
+  }
